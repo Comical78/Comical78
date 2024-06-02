@@ -1,5 +1,5 @@
 # Hello 👋, I'm Comical
-![OIP](https://github.com/ComicalSGT/ComicalSGT/assets/151361634/1d965eb0-7c81-4ff0-b6f5-babac17bab98)
+![R (1)](https://github.com/ComicalSGT/ComicalSGT/assets/151361634/48e8396b-dc94-4c7c-b780-c7cb3884b70b)
 <!--- 👀 I'm interested in ...-->
 - 🌱 I'm currently learning how to create my own client
 <!--- 💞️ I'm looking to collaborate on ...-->
