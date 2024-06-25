@@ -3,9 +3,8 @@
 <!--- 👀 I'm interested in ...-->
 - 🌱 I'm currently learning how to create my own client
 <!--- 💞️ I'm looking to collaborate on ...-->
-- 📫 How to reach me: You can contact me on GitHub on https://github.com/ComicalSGT/ComicalSGT (not guaranted response)
+- 📫 How to reach me: You can contact me on GitHub on https://github.com/ComicalSGT/ComicalSGT (not guaranted response), discord:comicalboss/comicxall
 - 😄 Pronouns: Comical,ComicXAll
-<!--- ⚡ Fun fact: ...-->
 
 <!--
 ComicalSGT/ComicalSGT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
