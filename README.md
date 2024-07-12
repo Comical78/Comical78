@@ -11,5 +11,5 @@
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComicalSGT&theme=transparent">
   <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ComicalSGT&hide_border=false">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ComicalSGT&theme=transparent">
 </p>
