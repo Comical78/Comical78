@@ -3,13 +3,13 @@
 ## Contact
 - Discord comicalboss/comicxall
 - GitHub on https://github.com/ComicalSGT/ComicalSGT (not guaranted response)
-## Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ComicalSGT&theme=gotham&hide_border=false)
 
-<h2 align="center">> GitHub stats</h2>
+<h2 align="center">Stats</h2>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ComicalSGT&show_icons=true&theme=transparent&include_all_commits=true">
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComicalSGT&theme=transparent">
+  <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ComicalSGT&hide_border=false">
 </p>
