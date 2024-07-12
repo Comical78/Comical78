@@ -7,5 +7,11 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=ComicalSGT&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ComicalSGT&theme=gotham&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ComicalSGT&theme=gotham&show_icons=true&hide_border=false&layout=compact)
-## What I want to Learn
-Curently I want start learning Chinesse.
+
+<h2 align="center">> GitHub stats</h2>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ComicalSGT&show_icons=true&theme=transparent&include_all_commits=true">
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComicalSGT&theme=transparent">
+</p>
