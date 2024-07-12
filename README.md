@@ -1,5 +1,5 @@
 # Hello 👋, I'm Comical
-![R (1)](https://github.com/ComicalSGT/ComicalSGT/assets/151361634/48e8396b-dc94-4c7c-b780-c7cb3884b70b)
+![README.md Image](https://github.com/ComicalSGT/ComicalSGT/assets/151361634/48e8396b-dc94-4c7c-b780-c7cb3884b70b)
 ## Contact
 - Discord comicalboss/comicxall
 - GitHub on https://github.com/ComicalSGT/ComicalSGT (not guaranted response)
