@@ -2,7 +2,7 @@
 <p align="center">
   <img align="center" src="https://github.com/ComicalSGT/ComicalSGT/assets/151361634/48e8396b-dc94-4c7c-b780-c7cb3884b70b">
 </p>
-## Contact
+<h2 align="center">Contact</h2>
 - Discord comicalboss/comicxall
 - GitHub on https://github.com/ComicalSGT/ComicalSGT (not guaranted response)
 
