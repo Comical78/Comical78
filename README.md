@@ -1,12 +1,12 @@
-<h1 align="center">Hello 👋, I'm Comical</h1>
+<h1 align="center">Yo, I'm Comical</h1>
 
 <p align="center">
-  <img align="center" src="https://github.com/Comical78/Comical78/assets/151361634/48e8396b-dc94-4c7c-b780-c7cb3884b70b">
+  <img align="center" src="./7aQv.gif">
 </p>
 
 <h2 align="center">What I currently do:</h2>
 
-<h3 align="center">Hacking/Programming</h3>
+<h3 align="center">Learning C & C++</h3>
 
 <h2 align="center">Stats</h2>
 
